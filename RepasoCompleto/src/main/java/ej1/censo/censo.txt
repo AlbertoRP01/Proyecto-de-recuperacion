@@ -1,0 +1,3 @@
+Morador,Lucy
+Mutante,Behemoth
+Morador,Maximus
