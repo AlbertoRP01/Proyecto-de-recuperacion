@@ -1,0 +1,50 @@
+[22-11-2024|08:00:37] <INFO> Conexion a BD establecida.
+[22-11-2024|08:02:27] <INFO> Iniciando servicio...
+[22-11-2024|08:02:28] <INFO> Sincronizacion completada.
+[22-11-2024|08:03:31] <DEBUG> Sincronizacion completada.
+[22-11-2024|08:05:23] <INFO> Sincronizacion completada.
+[22-11-2024|08:07:22] <INFO> Iniciando servicio...
+[22-11-2024|08:08:29] <DEBUG> Iniciando servicio...
+[22-11-2024|08:10:24] <INFO> Sincronizacion completada.
+[22-11-2024|08:11:26] <ERROR> NullPointerException en el servicio.
+[22-11-2024|08:12:08] <INFO> Iniciando servicio...
+[22-11-2024|08:13:06] <INFO> Iniciando servicio...
+[22-11-2024|08:14:17] <INFO> Iniciando servicio...
+[22-11-2024|08:16:00] <INFO> Limpiando cache temporal.
+[22-11-2024|08:17:10] <ERROR> NullPointerException en el servicio.
+[22-11-2024|08:18:33] <INFO> Conexion a BD establecida.
+[22-11-2024|08:19:30] <ERROR> Error 500 al llamar a la API externa.
+[22-11-2024|08:20:46] <DEBUG> Usuario logueado correctamente.
+[22-11-2024|08:22:03] <INFO> Limpiando cache temporal.
+[22-11-2024|08:23:28] <DEBUG> Conexion a BD establecida.
+[22-11-2024|08:25:14] <INFO> Usuario logueado correctamente.
+[22-11-2024|08:26:57] <INFO> Usuario logueado correctamente.
+[22-11-2024|08:28:18] <DEBUG> Iniciando servicio...
+[22-11-2024|08:30:13] <INFO> Usuario logueado correctamente.
+[22-11-2024|08:30:38] <ERROR> NullPointerException en el servicio.
+[22-11-2024|08:30:45] <INFO> Iniciando servicio...
+[22-11-2024|08:32:30] <DEBUG> Usuario logueado correctamente.
+[22-11-2024|08:32:48] <INFO> Conexion a BD establecida.
+[22-11-2024|08:34:42] <INFO> Sincronizacion completada.
+[22-11-2024|08:36:27] <DEBUG> Iniciando servicio...
+[22-11-2024|08:37:04] <ERROR> Error 500 al llamar a la API externa.
+[22-11-2024|08:38:42] <INFO> Conexion a BD establecida.
+[22-11-2024|08:39:46] <INFO> Usuario logueado correctamente.
+[22-11-2024|08:40:31] <INFO> Limpiando cache temporal.
+[22-11-2024|08:41:28] <DEBUG> Limpiando cache temporal.
+[22-11-2024|08:42:51] <DEBUG> Limpiando cache temporal.
+[22-11-2024|08:43:12] <INFO> Sincronizacion completada.
+[22-11-2024|08:43:21] <ERROR> Error 500 al llamar a la API externa.
+[22-11-2024|08:44:45] <ERROR> Error 500 al llamar a la API externa.
+[22-11-2024|08:45:42] <DEBUG> Iniciando servicio...
+[22-11-2024|08:46:19] <DEBUG> Usuario logueado correctamente.
+[22-11-2024|08:46:21] <INFO> Iniciando servicio...
+[22-11-2024|08:46:53] <INFO> Limpiando cache temporal.
+[22-11-2024|08:48:49] <ERROR> NullPointerException en el servicio.
+[22-11-2024|08:50:05] <INFO> Usuario logueado correctamente.
+[22-11-2024|08:51:33] <DEBUG> Sincronizacion completada.
+[22-11-2024|08:52:22] <INFO> Conexion a BD establecida.
+[22-11-2024|08:52:54] <ERROR> Error 500 al llamar a la API externa.
+[22-11-2024|08:53:27] <INFO> Usuario logueado correctamente.
+[22-11-2024|08:54:55] <DEBUG> Conexion a BD establecida.
+[22-11-2024|08:55:04] <DEBUG> Iniciando servicio...

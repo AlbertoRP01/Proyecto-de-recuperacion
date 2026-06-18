@@ -1,0 +1,226 @@
+[
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:05:26",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "NullPointerException en el servicio."
+  },
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:08:28",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "Token JWT expirado o invalido."
+  },
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:15:01",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:18:27",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "Disco lleno al intentar escribir."
+  },
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:19:07",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "Disco lleno al intentar escribir."
+  },
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:20:51",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "Disco lleno al intentar escribir."
+  },
+  {
+    "server": "24-11-2024",
+    "aplicacion": "08:20:55",
+    "fecha": "server3",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:01:53",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "No se encuentra el archivo de configuracion."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:02:30",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "No se encuentra el archivo de configuracion."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:10:47",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "Fallo al autenticar usuario."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:12:41",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "Memoria insuficiente."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:14:11",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "Timeout en la conexion a BD."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:17:59",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "Memoria insuficiente."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:20:18",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "No se encuentra el archivo de configuracion."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:25:50",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "Memoria insuficiente."
+  },
+  {
+    "server": "2024/11/21",
+    "aplicacion": "08:33:22",
+    "fecha": "server2",
+    "hora": "app1",
+    "descripcion": "No se encuentra el archivo de configuracion."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:11:26",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "NullPointerException en el servicio."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:17:10",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "NullPointerException en el servicio."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:19:30",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:30:38",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "NullPointerException en el servicio."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:37:04",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:43:21",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:44:45",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:48:49",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "NullPointerException en el servicio."
+  },
+  {
+    "server": "22-11-2024",
+    "aplicacion": "08:52:54",
+    "fecha": "server1",
+    "hora": "app2",
+    "descripcion": "Error 500 al llamar a la API externa."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:03:56",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "Fallo al autenticar usuario."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:04:04",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "No se encuentra el archivo de configuracion."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:04:05",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "No se encuentra el archivo de configuracion."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:11:49",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "Memoria insuficiente."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:12:01",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "Memoria insuficiente."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:28:33",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "Timeout en la conexion a BD."
+  },
+  {
+    "server": "2024/11/20",
+    "aplicacion": "08:39:50",
+    "fecha": "server1",
+    "hora": "app1",
+    "descripcion": "Timeout en la conexion a BD."
+  }
+]
